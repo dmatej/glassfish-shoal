@@ -104,7 +104,7 @@
 
         <ha.api.version>3.1.13</ha.api.version>
 
-        <findbugs.exclude />
+        <findbugs.exclude/>
         <findbugs.version>3.0.5</findbugs.version>
         <findbugs.threshold>Low</findbugs.threshold>
 
